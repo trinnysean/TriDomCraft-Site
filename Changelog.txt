@@ -1,0 +1,26 @@
+--------------------
+-                  -
+-    CHANGELOG     -
+-                  -
+--------------------
+
+
+Version 1.1.2 (Current)
+1. Fixed Admin links
+ 
+Version 1.1
+1. Added changelog
+2. Added Admin links
+3. Added donate page
+ 
+Version 1.0
+1. Created site
+2. Added youtube video
+3. Created forums and picked theme
+4. Added contact page
+5. Added IRC page
+6. Added Teamspeak page
+7. Created unfinished page
+8. Added servers page
+9. Added link selecter on Chat page
+10. Added scrolling banner on main page
