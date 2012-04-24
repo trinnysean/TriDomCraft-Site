@@ -7,7 +7,7 @@
 If you would like to do something, put your name in "(" and ")" after your selection. When something is done, remove it from here and add it to the changelog.
 
 1. Drop down menus
-2. Wiki
+2. Wiki(bubbajim3[since this isn't hugely important, I can get this done without my semi-inactiveness being a problem])
 3. Announcements (ddeckys)
 4. Finish donate page
 5. Add "Rules", "Ranks" and "The Prison" pages.
